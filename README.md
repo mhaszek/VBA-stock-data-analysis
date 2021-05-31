@@ -10,7 +10,7 @@ There were two key sources of data used:
 * [Test Data](Resources/alphabetical_testing.xlsx) - short version of the main dataset used for script testing
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - main dataset: .xlsx file which contains stock data for 2014, 2015 and 2016
-![data](Images/data.jpg)
+![data](Images/data.JPG)
 
 # Analysis
 
@@ -30,16 +30,16 @@ There were two key sources of data used:
 * Return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
 ### 2014:
-![2014_start](Images/HW02-VBA_MilenaH_2014.jpg)
-![2014_end](Images/HW02-VBA_MilenaH_2014_last.jpg)
+![2014_start](Images/HW02-VBA_MilenaH_2014.JPG)
+![2014_end](Images/HW02-VBA_MilenaH_2014_last.JPG)
 
 ### 2015:
-![2015_start](Images/HW02-VBA_MilenaH_2015.jpg)
-![2015_end](Images/HW02-VBA_MilenaH_2015_last.jpg)
+![2015_start](Images/HW02-VBA_MilenaH_2015.JPG)
+![2015_end](Images/HW02-VBA_MilenaH_2015_last.JPG)
 
 ### 2016:
-![2016_start](Images/HW02-VBA_MilenaH_2016.jpg)
-![2016_end](Images/HW02-VBA_MilenaH_2016_last.jpg)
+![2016_start](Images/HW02-VBA_MilenaH_2016.JPG)
+![2016_end](Images/HW02-VBA_MilenaH_2016_last.JPG)
 
 
 # Demo
