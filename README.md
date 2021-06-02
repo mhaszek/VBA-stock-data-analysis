@@ -52,4 +52,4 @@ To run the examples locally, save the chosen data file as Excel Macro-Enabled Wo
 
 #
 
-### Contact: mil.haszek@gmail.com
+#### Contact: mil.haszek@gmail.com
