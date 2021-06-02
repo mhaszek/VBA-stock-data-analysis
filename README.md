@@ -49,3 +49,7 @@ To run the examples locally, save the chosen data file as Excel Macro-Enabled Wo
 
 # Used Tools
  * VBA
+
+#
+
+### Contact: mil.haszek@gmail.com
